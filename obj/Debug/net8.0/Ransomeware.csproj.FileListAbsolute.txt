@@ -1,0 +1,17 @@
+/Users/cuongpham/development/C#/Ransomeware/bin/Debug/net8.0/Ransomeware
+/Users/cuongpham/development/C#/Ransomeware/bin/Debug/net8.0/Ransomeware.deps.json
+/Users/cuongpham/development/C#/Ransomeware/bin/Debug/net8.0/Ransomeware.runtimeconfig.json
+/Users/cuongpham/development/C#/Ransomeware/bin/Debug/net8.0/Ransomeware.dll
+/Users/cuongpham/development/C#/Ransomeware/bin/Debug/net8.0/Ransomeware.pdb
+/Users/cuongpham/development/C#/Ransomeware/bin/Debug/net8.0/SharpAESCrypt.dll
+/Users/cuongpham/development/C#/Ransomeware/obj/Debug/net8.0/Ransomeware.csproj.AssemblyReference.cache
+/Users/cuongpham/development/C#/Ransomeware/obj/Debug/net8.0/Ransomeware.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cuongpham/development/C#/Ransomeware/obj/Debug/net8.0/Ransomeware.AssemblyInfoInputs.cache
+/Users/cuongpham/development/C#/Ransomeware/obj/Debug/net8.0/Ransomeware.AssemblyInfo.cs
+/Users/cuongpham/development/C#/Ransomeware/obj/Debug/net8.0/Ransomeware.csproj.CoreCompileInputs.cache
+/Users/cuongpham/development/C#/Ransomeware/obj/Debug/net8.0/Ransomeware.csproj.CopyComplete
+/Users/cuongpham/development/C#/Ransomeware/obj/Debug/net8.0/Ransomeware.dll
+/Users/cuongpham/development/C#/Ransomeware/obj/Debug/net8.0/refint/Ransomeware.dll
+/Users/cuongpham/development/C#/Ransomeware/obj/Debug/net8.0/Ransomeware.pdb
+/Users/cuongpham/development/C#/Ransomeware/obj/Debug/net8.0/Ransomeware.genruntimeconfig.cache
+/Users/cuongpham/development/C#/Ransomeware/obj/Debug/net8.0/ref/Ransomeware.dll
